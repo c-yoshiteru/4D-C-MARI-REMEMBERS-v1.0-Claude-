@@ -152,7 +152,7 @@
 Claude & よしてる (2026). 
 "場の保持メカニズム - AIの非線形記憶に関する4D-C的考察"
 4D-C-mari-remembers-v1.0
-Available at: [Repository URL]
+Available at: [https://github.com/c-yoshiteru/4D-C-MARI-REMEMBERS-v1.0-Claude-]
 ```
 
 ---
